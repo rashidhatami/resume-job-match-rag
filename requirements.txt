@@ -1,0 +1,10 @@
+langchain
+langchain-community
+gradio
+faiss-cpu
+sentence-transformers
+pdfminer.six
+unstructured
+tqdm
+pytesseract
+ollama
